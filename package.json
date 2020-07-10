@@ -1,0 +1,21 @@
+{
+  "name": "aufgabe9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Aufgabe1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.4.0",
+    "lit-element": "^2.2.1",
+    "lit-element-router": "^2.0.0-rc.10",
+    "nanoid": "^2.1.7",
+    "pwa-helpers": "^0.9.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0"
+  }
+}
